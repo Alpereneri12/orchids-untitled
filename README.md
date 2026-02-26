@@ -33,3 +33,4 @@ Kaynak kodlar indirilerek yerel ortamda çalıştırılabilir.
 Expo Go uygulaması aracılığıyla projenin QR kodu okutularak canlı olarak test edilebilir.
 
 uygulama deneme linki->https://8081-ddcca6a7-e171-47ec-853b-f1c414e8fef3.orchids.cloud
+youtube videosu->https://www.youtube.com/watch?v=ULe4JOEXtrk
